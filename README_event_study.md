@@ -94,10 +94,3 @@ to be on your Python path, or copy them into this folder.
 5. Test with Longformer for full-document sentiment instead of chunked FinBERT
 
 ---
-
-## Resume bullet
-
-> "Built an event study on 241 S&P 500 earnings calls using FinBERT sentiment scoring;
-> identified post-earnings announcement drift (PEAD) pattern consistent with academic
-> literature — moderate sentiment calls drifted +1% over 10 days while high-sentiment
-> calls reversed, consistent with 'sell the news' dynamics."
